@@ -1,0 +1,6 @@
+name	combined_b
+iterCount	516
+learnErrorLog	learn_error.tsv
+testErrorLog	test_error.tsv
+timeLeft	time_left.tsv
+loss	Logloss	min

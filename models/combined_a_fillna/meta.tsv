@@ -1,0 +1,6 @@
+name	combined_a_fillna
+iterCount	1998
+learnErrorLog	learn_error.tsv
+testErrorLog	test_error.tsv
+timeLeft	time_left.tsv
+loss	Logloss	min
